@@ -1,0 +1,17 @@
+*.aps
+*.opt
+*.ncb
+*.obj
+*.plg
+*.dll
+*.lock
+*.pch
+*.idb
+lib/
+out/
+bin/
+Debug/
+Release/
+DebugU/
+ReleaseU/
+vendor/

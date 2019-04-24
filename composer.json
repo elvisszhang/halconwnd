@@ -1,0 +1,14 @@
+{
+    "name": "elvisszhang/halconwnd",
+    "type": "project",
+    "description": "halcon图形控件",
+    "license": "MIT",
+    "require": {
+    },
+    "repositories": [
+        { "type": "composer", "url": "http://lysis-satis.jrcad.com/" }
+    ],
+    "config": {
+        "secure-http": false
+    }
+}
